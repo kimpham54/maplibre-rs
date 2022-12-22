@@ -1,6 +1,7 @@
 //! Vector tile format styling.
 
 pub mod layer;
+pub mod layerdraft;
 pub mod source;
 pub mod sourcedraft;
 mod style;
